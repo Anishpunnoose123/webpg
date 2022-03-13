@@ -68,7 +68,7 @@ body {
 	min-height: 300px;
 }
 .bg-1 {
-	background-image: url(https://anishpunnoose123.github.io/webpg/picture/img1.jpg);
+	background-image: url(./webpg/picture/img1.jpg);
 }
 .bg-2 {
 	background-image: url(/picture/img2.jpg);
