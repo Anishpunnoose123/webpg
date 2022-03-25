@@ -1,4 +1,4 @@
-body{background-image: url(https://anishpunnoose123.github.io/webpg/picture/peakpx.jpg);
+body{background-image: url(/picture/peakpx.jpg);
 background-size: cover;}
 .myname3{padding-left:44%;
     padding-top:4%;
@@ -41,4 +41,26 @@ font-weight: bold;}
 .nav-item:hover .tm-nav-link {
     color: rgb(4, 5, 5);
 }
+#contain{border: 2px solid white;width: 106%;margin-left: -6%;margin-top: 3%;height:80%;margin-bottom: -4%;background-color: wheat;}
+
+.valid {
+    color: green;
+  }
+  
+  .valid:before {
+    position: relative;
+    left: -35px;
+
+  }
+  
+  /* Add a red text color and an "x" icon when the requirements are wrong */
+  .invalid {
+    color: red;
+  }
+  
+  .invalid:before {
+    position: relative;
+    left: -35px;
+  }
+
    
